@@ -23,7 +23,7 @@ Build a high-performance, production-ready photography portfolio website with an
 - **Frontend Framework**: Next.js 15.3.3 (App Router, React 18.3.1)
 - **Language**: TypeScript 5 (strict mode)
 - **Styling**: Tailwind CSS v4 with custom design tokens
-- **Backend**: Supabase (PostgreSQL database, authentication, storage)
+- **Backend**: PostgreSQL database, authentication, storage
 - **Performance**: React.lazy(), dynamic imports, bundle optimization
 - **Image Processing**: heic2any for HEIC conversion, Next.js Image optimization
 - **Authentication**: Supabase Auth with protected route middleware
