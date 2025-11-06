@@ -376,6 +376,4 @@ The project successfully balances technical excellence with user experience, pro
 
 **AI Development Tool**: Claude Code (claude.ai/code)
 
-**Repository**: [Your GitHub Repository URL]
-
-**Live Demo**: [Your Production URL]
+**Live Demo**: marqesproject.com
